@@ -1,29 +1,25 @@
-Email Address Registration Confirmation
+Welcome to the "$display_name" mailing list!
 
-Hello, this is the GNU Mailman server at $domain.
+To post to this list, send your email to:
 
-We have received a registration request for the email address
+  $listname
 
-    $user_email
+You can unsubscribe or make adjustments to your options via email by
+sending a message to:
 
-Before you can start using GNU Mailman at this site, you must first confirm that this is your email address.  You can do this by replying to this message, keeping the Subject header intact.
+  $request_email
 
-If you do not wish to register this email address, simply disregard this message.  If you think you are being maliciously subscribed to the list, or have any other questions, you may contact
+with the word 'help' in the subject or body (don't include the
+quotes), and you will get back a message with instructions.  You will
+need your password to change your options, but for security purposes,
+this password is not included here.  If you have forgotten your
+password you will need to reset it via the web UI.
 
-    $owner_email
+欢迎您加入"$display_name"邮件列表！
+如果您需要发起讨论，请直接发送邮件到:
 
-邮件列表注册确认邮件。
+   $listname
 
-你好！这是$domain邮件列表的自动回复邮件，请阅读完毕。
+如果您需要取消订阅或者调整您的的订阅参数，请发送邮件到:
 
-我们已经收到了如下邮件地址发送的注册请求：
-
-    $user_email
-
-如果你确认如上地址是你的邮件地址，请回复该邮件，不要修改邮件标题和邮件内容，直接回复，之后你就可以使用该邮件列表了。
-
-如果你不想订阅该邮件列表，请忽略该邮件。
-
-如果你被恶意订阅了该邮件列表，或者你有关于该邮件列表的其他问题需要咨询，请发送邮件到给
-
-    $owner_email
+   $request_email
